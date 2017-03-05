@@ -72,7 +72,7 @@
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
-     <icon src="icon.png" platform="ios" width="180" height="180" />
+     <icon src="res/icon/ios/icon_2.png" platform="ios" width="180" height="180" />
 
     <!-- Define app splash screen for each platform. -->
    
