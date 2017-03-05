@@ -1,0 +1,34 @@
+th {
+
+    color: #825708;
+    text-align: center;
+    border-bottom: 2px solid #825708;
+    border-top: 2px solid #825708;
+    background-color:white;
+    height: 50px;
+    
+}
+
+
+
+tr:nth-child(even){
+		color: black;
+		/*color:#5AA558;*/
+		/*verde*/
+		background-color: #F0A23E80;
+	}
+	
+/*FF es que no tiene transparencia
+80 es la mitad
+00 es que es total transparente
+*/
+tr:nth-child(odd){
+	background-color: #E9E43F40;
+	/*color: #5AA558;*/
+	color:black;
+
+	}
+	
+table{
+ font-family: fantasy;
+}
