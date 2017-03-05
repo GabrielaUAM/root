@@ -75,21 +75,7 @@
      <icon src="icon.png" platform="ios" width="180" height="180" />
 
     <!-- Define app splash screen for each platform. -->
-    <gap:splash src="icon.png"       gap:platform="android" gap:qualifier="port-ldpi" />
-    <gap:splash src="icon.png"       gap:platform="android" gap:qualifier="port-mdpi" />
-    <gap:splash src="icon.png"       gap:platform="android" gap:qualifier="port-hdpi" />
-    <gap:splash src="icon.png"      gap:platform="android" gap:qualifier="port-xhdpi" />
-    <gap:splash src="icon.png"              gap:platform="blackberry" />
-    <gap:splash src="icon.png"         gap:platform="ios"     width="320" height="480" />
-    <gap:splash src="icon.png"      gap:platform="ios"     width="640" height="960" />
-    <gap:splash src="icon.png" gap:platform="ios"     width="640" height="1136" />
-    <gap:splash src="icon.png"           gap:platform="ios"     width="768" height="1024" />
-    <gap:splash src="icon.png"          gap:platform="ios"     width="1024" height="768" />
-    <gap:splash src="icon.jpg"      gap:platform="winphone" />
-
-    <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-    <string>100</string>
-    </gap:config-file>
+   
 
     <!--
         Define access to external domains.
